@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-newbweb-client-starter",
+  "version": "0.1.0",
+  "keywords": [
+    "newBweb",
+    "create-react-app",
+    "client",
+    "starter"
+  ],
+  "description": "NewBweb client starter template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newBweb-code/cra-template-newbweb-client-starter.git"
+  },
+  "homepage": "https://github.com/newBweb-code/cra-template-newbweb-client-starter",
+  "author": "newBweb <github@newbweb.com> (https://www.newbweb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newBweb-code/cra-template-newbweb-client-starter/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
