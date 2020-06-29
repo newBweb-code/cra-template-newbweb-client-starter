@@ -22,7 +22,8 @@ const additions = {
   },
   jest: {
     ...package.jest,
-    "snapshotSerializers": ["enzyme-to-json/serializer"]
+    "snapshotSerializers": ["enzyme-to-json/serializer"],
+    "coveragePathIgnorePatterns": ["index.js"]
   },
 };
 

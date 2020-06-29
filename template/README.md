@@ -60,7 +60,7 @@ The Client Starter comes pre-packaged with all the features required to follow a
 
 Dev-only packages include (if you ran `node addDevDependencies.js`):
 
-* **eslint-config-airbnb**, Airbnb configurtation for ESLint
+* **eslint-config-airbnb**, Airbnb configuration for ESLint
 * **eslint-plugin-import**, Import syntax support for ESLint
 * **eslint-plugin-jsx-a11y**, Helps identity accessbility issues with React elements
 * **eslint-plugin-react**, React linting rules for ESLint
@@ -70,7 +70,7 @@ Dev-only packages include (if you ran `node addDevDependencies.js`):
 
 newBweb is an online school that teaches technology for newbies.
 
-For more info, please visit [newBweb]([https://www.newbweb.com "newBweb")!
+For more info, please visit [newBweb](https://www.newbweb.com "newBweb")!
 
 ## License
 
