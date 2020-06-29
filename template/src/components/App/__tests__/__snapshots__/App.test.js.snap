@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> to match snapshot. 1`] = `
+<div
+  class="root"
+>
+  <header
+    class="header"
+  >
+    <img
+      alt="newBweb"
+      class="logo"
+      src="newbweb-logo-512-white.png"
+    />
+  </header>
+  <main
+    class="main"
+  >
+    <h1>
+      React Client Starter
+    </h1>
+    <p>
+      This template was built to follow along with newBweb's "Serverless React for Newbies" course.
+    </p>
+    <p>
+      Make sure you ran the following command after using Create React App, or you will be missing some dev dependencies!
+    </p>
+    <code
+      class="code"
+    >
+      node addDevDependencies.js
+      <br />
+      npm install
+    </code>
+  </main>
+  <footer
+    class="footer"
+  >
+    Visit 
+    <a
+      href="https://newbweb.com"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      newBweb website
+    </a>
+     for more info!
+  </footer>
+</div>
+`;
