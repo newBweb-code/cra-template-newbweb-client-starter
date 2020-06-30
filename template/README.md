@@ -3,18 +3,19 @@
 React Client Starter to follow along with newBweb's "Serverless React for Newbies" course.
 
 ## Installation
+
 Make sure you ran the following command after using Create React App, or you will be missing some dev dependencies!
 
 ```sh
 node addDevDependencies.js
-npm install
+yarn install
 ```
 
 ## Usage
 
 To start the React Client
 ```sh
-npm start
+yarn start
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser & follow along!
 
@@ -24,12 +25,12 @@ The Client Starter is configured to use Jest and Enzyme for unit testing. We hav
 
 To run the tests, type
 ```sh
-npm test
+yarn test
 ```
 
 To check test coverage, type
 ```sh
-npm test -- --coverage
+yarn test --coverage
 ```
 
 ## Included Packages

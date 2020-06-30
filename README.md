@@ -8,15 +8,14 @@ Pre-configured Client Starter template to be used with [Create React App](https:
 npx create-react-app client --template newbweb-client-starter
 cd client
 node addDevDependencies.js
-npm install
+yarn install
 ```
 
 ## Usage
 
 To start the React Client
 ```sh
-cd client
-npm start
+yarn start
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser & follow along!
 
@@ -26,12 +25,12 @@ The Client Starter is configured to use Jest and Enzyme for unit testing. We hav
 
 To run the tests, type
 ```sh
-npm test
+yarn test
 ```
 
 To check test coverage, type
 ```sh
-npm test -- --coverage
+yarn test --coverage
 ```
 
 ## Included Packages
